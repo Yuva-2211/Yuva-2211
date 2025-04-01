@@ -12,7 +12,7 @@ I'm an aspiring tech enthusiast passionate about **Web Development** and **Machi
 
 - **Languages:** Python, JavaScript (learning)
 - **Domains:** Web Development, Machine Learning, Blockchain (Interested)
-- **Tech Stack:** Flask, Django, React (Exploring)
+- **Tech Stack:** Flask, React (Exploring)
 - **Machine Learning Tools:**  Pandas, NumPy, Scikit-learn (learning)
 
 ## 📫 Let's Connect
