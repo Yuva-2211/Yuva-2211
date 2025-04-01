@@ -11,7 +11,7 @@ I'm an aspiring tech enthusiast passionate about **Web Development** and **Machi
 ## 🚀 Skills & Interests
 
 - **Languages:** Python, JavaScript (learning)
-- **Domains:** Web Development, Machine Learning, Blockchain (Interested)
+- **Domains:** Web Development, Machine Learning
 - **Tech Stack:** Flask, React (Exploring)
 - **Machine Learning Tools:**  Pandas, NumPy, Scikit-learn (learning)
 
