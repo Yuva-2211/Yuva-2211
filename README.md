@@ -15,6 +15,12 @@ I'm an aspiring tech enthusiast passionate about **Web Development** and **Machi
 - **Tech Stack:** Flask, React (Exploring)
 - **Machine Learning Tools:**  Pandas, NumPy, Scikit-learn (learning)
 
+
+![Yuva-2211's Stats](https://github-readme-stats.vercel.app/api?username=Yuva-2211&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+
+![Yuva-2211's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuva-2211&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
 ## 📫 Let's Connect
 
 - Feel free to reach out if you want to collaborate on exciting projects!
