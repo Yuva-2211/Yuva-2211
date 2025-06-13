@@ -21,6 +21,9 @@ I'm an aspiring tech enthusiast passionate about **Web Development** and **Machi
 
 ![Yuva-2211's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuva-2211&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
+![Yuva-2211's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yuva-2211&theme=tokyonight&hide_border=true)
+
+
 ## 📫 Let's Connect
 
 - Feel free to reach out if you want to collaborate on exciting projects!
