@@ -18,11 +18,9 @@ I'm an aspiring tech enthusiast passionate about **Web Development** and **Machi
 
 ![Yuva-2211's Stats](https://github-readme-stats.vercel.app/api?username=Yuva-2211&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-
-![Yuva-2211's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuva-2211&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
 ![Yuva-2211's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yuva-2211&theme=tokyonight&hide_border=true)
 
+![Yuva-2211's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuva-2211&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ## 📫 Let's Connect
 
