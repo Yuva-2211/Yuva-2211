@@ -15,8 +15,6 @@ I am Yuva Shankar Narayana, a second-year B.Tech CSE (AI & ML) student at Taksha
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Yuva-2211&theme=flag-india&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Yuva-2211&limit=5&theme=flag-india&combine_all_yearly_contributions=true&cache_seconds=1800)
 
 
 ---
